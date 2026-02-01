@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578694522133",
+    "project_id": "fleerun-cc29d",
+    "storage_bucket": "fleerun-cc29d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578694522133:android:714f64603a69b88c2c751c",
+        "android_client_info": {
+          "package_name": "com.example.fleerun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578694522133-d8m8ub3ss0dlr7lpedrit4aatq1c1rva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvmgimuP0KPcJpvKxqr2O8_dZ2-ujYfFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578694522133-d8m8ub3ss0dlr7lpedrit4aatq1c1rva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
